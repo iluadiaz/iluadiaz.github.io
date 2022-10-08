@@ -1,0 +1,193 @@
+.card{
+border-width: 100%;
+border-right: 0px;
+border-left: 0px;
+border-style:solid;
+border-color: black !important;
+}
+
+.HomePageMission{
+margin-top: 10px;
+}
+
+.footer {
+    position: absolute;
+    min-height: 60px;
+    height: 4.5em;
+    width: 100%;
+    color:#FFFFFF; 
+    background: #2f2e2e;
+    bottom: 0;
+    display: flex;
+    text-align: center;
+    border:2px solid black;
+    align-items:center;
+}
+
+
+body{
+    background-color: #B3CBE4 !important;
+
+} 
+
+.navbar{
+    background-color: #2f2e2e;
+    width:100%;
+    border:3px solid black;
+
+}
+html{
+    position:relative; 
+    min-height: 100%;
+  }
+  /*Normalize html and body elements,this style is just good to have*/
+  html{
+    margin:0; 
+    padding-bottom: 30em;
+    overflow-x: hidden;
+  }
+  .pageContentWrapper{
+    margin-bottom:100px;/* Height of footer*/
+  } 
+
+  .FooterIcons{
+
+    align-items:flex-start !important;
+    margin-left: 1%;
+  }
+  .LastIcon{
+
+    margin-left: 1%;
+  }
+  .FooterText{
+
+    margin-left: 33%;
+    font-size: 12px;
+    margin-right: 3%;
+    margin-top:1%;
+
+
+  }
+  .col-sm-8{
+    margin-right: 3%;
+  }
+
+  .HomePageAlign{
+    margin-left: 3%;
+    margin-top: 1%;
+    margin-bottom: .5%;
+    font-size: 26px;
+  }
+.homePageAlignRight{
+    text-align: left;
+    font-size: 26px;
+  }
+h1{
+  font-size: 52px; 
+  text-align: center;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+.h1Services{
+  font-size: 52px; 
+  text-align: center;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+.parent {
+
+  position: relative;
+  top: 0;
+  left: 0;
+
+
+}
+
+.image1 {
+  position: relative;
+  top: 0;
+  left: 0;
+  height: 23em;
+  width: 26em; 
+  border:3px solid black;
+  margin-left: 6%;
+}
+
+.image2 {
+  position: absolute;
+  top: 15em;
+  left: 22em;
+  width: 25em;
+  height: 22em;
+  border:3px solid black; 
+  margin-left: 6%;
+}
+.AlignSecondHalfOfHomePage{
+  margin-left: 10%;
+  font-size: 26px;
+  
+}
+.HomePageAlignSecondHalfTitle{
+  margin-left: 58%;
+  margin-top: 8%;
+  margin-bottom: 2%;
+  
+
+}
+.HomePageAlignSafetyParagraph{
+  margin-left: 50%;
+  margin-top: 2%;
+  margin-bottom: 3%;
+  font-size: 26px;
+}
+.h1Services{
+  text-align: left;
+  margin-left: 3%;
+}
+.AboutPageAlignRight{
+  text-align: left;
+  font-size: 26px;
+  margin-left: 10%;
+  margin-top: 5%;
+}
+.ServicesPageAlignList{
+  text-align: left;
+  font-size: 26px;
+  margin-top: 1%;
+  margin-left: 3%;
+}
+.ServicesPageAlignListItems{
+  text-align: left;
+  font-size: 26px;
+}
+.ServicesPageAlignLeft{
+  text-align: left;
+  font-size: 26px;
+  margin-top: 1%;
+  margin-left: 2%;
+}
+
+.ServicesPictures
+{
+  width: 22.3em; 
+  height: 20em; 
+  margin-top:3%;  
+  border:3px solid black; 
+}
+.ServicesPicturesStart
+{
+  width: 22.3em; 
+  height: 20em; 
+  margin-top:3%; 
+  margin-left:2%; 
+  border:3px solid black; 
+  margin-left:2%;
+}
+.ServicesPicturesEnd
+{
+  width:22.3em; 
+  height: 20em; 
+  margin-top:3%;  
+  border:3px solid black; 
+  margin-right:2%;
+}
