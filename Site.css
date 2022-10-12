@@ -76,7 +76,7 @@ html{
     margin-left: 3%;
     margin-top: 1%;
     margin-bottom: .5%;
-    font-size: 26px;
+    font-size: 1.65em;
   }
 .homePageAlignRight{
     text-align: left;
@@ -107,38 +107,41 @@ h1{
   position: relative;
   top: 0;
   left: 0;
-  height: 23em;
-  width: 26em; 
+  height: 23vw;
+  width: 26vw; 
   border:3px solid black;
-  margin-left: 6%;
+  margin-left: 2vw;
+  margin-right: 1vw;
 }
 
 .image2 {
   position: absolute;
-  top: 15em;
-  left: 22em;
-  width: 25em;
-  height: 22em;
+  top: 15vw;
+  left: 22vw;
+  width: 26vw;
+  height: 23vw;
   border:3px solid black; 
-  margin-left: 6%;
+  margin-left: 1vw;
+  margin-right: 1vw;
 }
 .AlignSecondHalfOfHomePage{
-  margin-left: 10%;
-  font-size: 26px;
+  margin-left: 6vw;
+  font-size: 1.65em;
+
   
 }
 .HomePageAlignSecondHalfTitle{
-  margin-left: 58%;
-  margin-top: 8%;
+  margin-left: 33vw;
+  margin-top: 4vw;
   margin-bottom: 2%;
   
 
 }
 .HomePageAlignSafetyParagraph{
-  margin-left: 50%;
-  margin-top: 2%;
+  margin-left: 28vw;
+  margin-top: 2vw;
   margin-bottom: 3%;
-  font-size: 26px;
+  font-size: 1.65em;
 }
 .h1Services{
   text-align: left;
@@ -152,7 +155,7 @@ h1{
 }
 .ServicesPageAlignRight{
   text-align: left;
-  font-size: 26px;
+  font-size: 1.65em;
   margin-left: 10%;
   margin-top: 5%;
 }
@@ -164,32 +167,32 @@ h1{
 }
 .ContactPageAlignRight{
   text-align: left;
-  font-size: 26px;
+  font-size: 1.65em;
   margin-top: 14%;
   margin-left: 3%;
 }
 .ServicesPageAlignListItems{
   text-align: left;
-  font-size: 26px;
+  font-size: 1.65em;
 }
 .ServicesPageAlignLeft{
   text-align: left;
-  font-size: 26px;
+  font-size: 1.65em;
   margin-top: 1%;
   margin-left: 2%;
 }
 
 .ServicesPictures
 {
-  width: 22.3em; 
-  height: 20em; 
+  width:23.2vw; 
+  height: 20.82vw; 
   margin-top:3%;  
   border:3px solid black; 
 }
 .ServicesPicturesStart
 {
-  width: 22.3em; 
-  height: 20em; 
+  width:23.2vw; 
+  height: 20.82vw; 
   margin-top:3%; 
   margin-left:2%; 
   border:3px solid black; 
@@ -197,8 +200,8 @@ h1{
 }
 .ServicesPicturesEnd
 {
-  width:22.3em; 
-  height: 20em; 
+  width:23.2vw; 
+  height: 20.82vw; 
   margin-top:3%;  
   border:3px solid black; 
   margin-right:2%;
@@ -211,4 +214,11 @@ h1{
 .h1Contact{
   text-align: left;
   margin-left:17%;
+}
+.titleLogo{
+  margin-left:auto;
+  margin-right:auto;
+  display: block;
+  height:9vw;
+  width:52vw;
 }
