@@ -44,8 +44,6 @@ body{
   } 
 
   .FooterIcons{
-
-
     margin-left: 1%;
   }
   .LastIcon{
@@ -80,7 +78,7 @@ body{
     margin-top: 1%;
     margin-bottom: .5%;
     font-size: 1.3vh;
-    font-size: 2.6vw;
+    font-size: 2vw;
   }
   .HomePageOurMission{
 
@@ -107,10 +105,12 @@ h1{
   margin-bottom: 1%;
 }
 .h1Services{
-  font-size: 52px; 
-  text-align: center;
+  font-size: 2vh;
+  font-size: 4vw;
+  text-align: left;
   margin-top: 1%;
   margin-bottom: 1%;
+  margin-left: 3%;
 }
 .parent {
 
@@ -127,7 +127,7 @@ h1{
   left: 0;
   height: 23vw;
   width: 26vw; 
-  border:4px solid black;
+  border:3.2px solid black;
 
 }
 
@@ -137,7 +137,7 @@ h1{
   left: 22vw;
   width: 26vw;
   height: 23vw;
-  border:4px solid black; 
+  border:3.2px solid black; 
 
 }
 .AlignSecondHalfOfHomePage{
@@ -161,15 +161,18 @@ h1{
   font-size: 1.3vh;
   font-size: 2vw;
 }
-.h1Services{
+.h1About{
+  font-size: 2vh;
+  font-size: 4vw;
   text-align: left;
   margin-left: 3%;
 }
 .AboutPageAlignRight{
   text-align: left;
-  font-size: 26px;
+  font-size: 1.3vh;
+  font-size: 2vw;
   margin-left: 10%;
-  margin-top: 5%;
+
 }
 .ServicesPageAlignRight{
   text-align: left;
@@ -181,15 +184,18 @@ h1{
 }
 .ContactAlignRight{
   text-align: left;
-  font-size: 26px;
+  font-size: 1.3vh;
+  font-size: 2vw;
   margin-left: 10%;
   margin-top: 5%;
 }
 .ContactPageAlignRight{
   text-align: left;
-  font-size: 1.65em;
-  margin-top: 14%;
-  margin-left: 3%;
+  font-size: 1.3vh;
+  font-size: 2vw;
+  margin-top: 10vw;
+  margin-top: 10vh;
+
 }
 .ServicesPageAlignListItems{
   text-align: left;
@@ -209,7 +215,9 @@ h1{
   width:21.5vw; 
   height: 20vw; 
   margin-top:3%;  
-  border:4px solid black;
+  border-Top:3.2px solid black;
+  border-Bottom:3.2px solid black;
+  border-left:1.6px solid black;
   margin-bottom: 5vw; 
 }
 .ServicesPicturesStart
@@ -218,7 +226,10 @@ h1{
   height: 20vw; 
   margin-top:3%; 
   margin-left:5%; 
-  border:4px solid black; 
+  border-right:1.6px solid black; 
+  border-Top:3.2px solid black;
+  border-Bottom:3.2px solid black;
+  border-left:3.2px solid black;
   margin-bottom: 5vw; 
 }
 .ServicesPicturesEnd
@@ -226,8 +237,10 @@ h1{
   width:21.5vw; 
   height: 20vw; 
   margin-top:3%;  
-  border:4px solid black; 
-
+  border-right:3.2px solid black; 
+  border-Top:3.2px solid black;
+  border-Bottom:3.2px solid black;
+  border-left:1.6px solid black;
   margin-bottom: 5vw; 
 }
 .AncorToBottom{
@@ -238,6 +251,8 @@ h1{
 .h1Contact{
   text-align: left;
   margin-left:17%;
+  font-size: 2vh;
+  font-size: 4vw;
 }
 .titleLogo{
   margin-left:auto;
