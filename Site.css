@@ -1,3 +1,5 @@
+
+
 .HomePageMission{
 margin-top: 10px;
 }
@@ -16,10 +18,13 @@ margin-top: 10px;
     line-height: 1vw; 
     min-height: 35px;
 
+
 }
 
 .container{
-  width: 100% !important; 
+
+    width: 100%v!important;
+
 }
 
 body{
@@ -58,7 +63,7 @@ body{
     font-size:1vw;
     
     margin-bottom: .5vw;
-    margin-top:.5vw;
+    margin-top:1vw;
 
 
   }
@@ -79,9 +84,10 @@ body{
     margin-bottom: .5%;
     font-size: 1.3vh;
     font-size: 2vw;
+    margin-left: 3%;
   }
   .HomePageOurMission{
-
+    margin-left: 3%;
     margin-top: 1%;
     margin-bottom: .5%;
     font-size: 1.3vh;
@@ -92,11 +98,14 @@ body{
     margin-bottom: .5%;
     font-size: 1.3vh;
     font-size: 2vw;
+    margin-left: 3%;
+    margin-right: 3%;
   }
 .homePageAlignRight{
     text-align: left;
     font-size: 1.3vh;
     font-size: 2vw;
+    margin-left: 3%;
   }
 h1{
   font-size: 52px; 
@@ -128,16 +137,18 @@ h1{
   height: 23vw;
   width: 26vw; 
   border:3.2px solid black;
+  margin-left: 3%;
 
 }
 
 .image2 {
   position: absolute;
-  top: 16vw;
-  left: 22vw;
+  top: 15.5vw;
+  left: 20.5vw;
   width: 26vw;
   height: 23vw;
-  border:3.2px solid black; 
+  border:3.2px solid black;
+  margin-left: 3%; 
 
 }
 .AlignSecondHalfOfHomePage{
@@ -151,7 +162,8 @@ h1{
   margin-left: 30vw;
   margin-top: 4vw;
   margin-bottom: 2%;
-  
+  font-size: 1.2vh;
+  font-size: 2.1vw;
 
 }
 .HomePageAlignSafetyParagraph{
@@ -187,15 +199,14 @@ h1{
   font-size: 1.3vh;
   font-size: 2vw;
   margin-left: 10%;
-  margin-top: 5%;
-  margin-right: 2%;
+  margin-top: 2vh;
 }
 .ContactPageAlignRight{
   text-align: left;
   font-size: 1.3vh;
   font-size: 2vw;
-  margin-top: 10vw;
-  margin-top: 10vh;
+  margin-top: 12.5vh;
+  
 
 }
 .ServicesPageAlignListItems{
@@ -220,6 +231,7 @@ h1{
   border-Bottom:3.2px solid black;
   border-left:1.6px solid black;
   margin-bottom: 5vw; 
+
 }
 .ServicesPicturesStart
 {
