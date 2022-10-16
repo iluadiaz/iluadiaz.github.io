@@ -229,7 +229,8 @@ h1{
   margin-top:3%;  
   border-Top:3.2px solid black;
   border-Bottom:3.2px solid black;
-  border-left:1.6px solid black;
+  border-left:2px solid black;
+  border-right:2px solid black;
   margin-bottom: 5vw; 
 
 }
@@ -239,7 +240,7 @@ h1{
   height: 20vw; 
   margin-top:3%; 
   margin-left:5%; 
-  border-right:1.6px solid black; 
+  border-right:2px solid black; 
   border-Top:3.2px solid black;
   border-Bottom:3.2px solid black;
   border-left:3.2px solid black;
@@ -253,7 +254,7 @@ h1{
   border-right:3.2px solid black; 
   border-Top:3.2px solid black;
   border-Bottom:3.2px solid black;
-  border-left:1.6px solid black;
+  border-left:2px solid black;
   margin-bottom: 5vw; 
 }
 .AncorToBottom{
